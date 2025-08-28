@@ -2,6 +2,6 @@
 
 @import url("https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap");
 
-body html {
-  overflow: hidden;
+body {
+  overflow-x: hidden;
 }
